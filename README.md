@@ -3,6 +3,6 @@
 
 Choose **number** between `1` and `100` and press `Enter`.
 
-The computer selects a **random number** and returns inforamtion whether the number is **less than**, **greater than** or **iqual** to the selected **number**.
+The computer selects a **random number** and returns inforamtion whether the number is **less than**, **greater than** or **equal** to the selected **number**.
 
 [Source Code](guess-a-number-game.js)
