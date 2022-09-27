@@ -7,11 +7,10 @@ The computer selects a **random number** and returns inforamtion whether the num
 
 [Source Code](guess-a-number-game.js)
 
+![image](https://user-images.githubusercontent.com/103934900/192453891-f05c4161-4d81-44bc-9768-790558e0e367.png)
+
 ## Live Demo
 
 You can play the game directly in your Web browser here:
 
-[<img alt="Play Button" src="https://user-images.githubusercontent.com/85368212/167706022-5128fd5d-d315-4eb9-9001-3bf9008cd91e.png" />]
-(https://replit.com/@bysve/GuessANumber#index.js)
-
-![image](https://user-images.githubusercontent.com/103934900/192453891-f05c4161-4d81-44bc-9768-790558e0e367.png)
+[<img alt="Play Button" src="https://user-images.githubusercontent.com/103934900/192458495-dd73596a-af93-46b4-88cf-b9859e56009e.png" />](https://replit.com/@bysve/GuessANumber#index.js)
