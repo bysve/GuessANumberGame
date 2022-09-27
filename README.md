@@ -11,6 +11,7 @@ The computer selects a **random number** and returns inforamtion whether the num
 
 You can play the game directly in your Web browser here:
 
-https://replit.com/@bysve/GuessANumber#index.js
+[<img alt="Play Button" src="https://user-images.githubusercontent.com/85368212/167706022-5128fd5d-d315-4eb9-9001-3bf9008cd91e.png" />]
+(https://replit.com/@bysve/GuessANumber#index.js)
 
 ![image](https://user-images.githubusercontent.com/103934900/192453891-f05c4161-4d81-44bc-9768-790558e0e367.png)
